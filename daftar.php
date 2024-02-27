@@ -19,7 +19,7 @@
                             <h5> Silahkan Daftar Akun Anda Disini</h5>
                             <form method="post" action="proses_daftar.php">
                                 <div class="form-group mt-2">
-                                    <label>UserName</label>
+                                    <label>Username</label>
                                     <input type="text" name="Username" class="form-control">
                                 </div>
                            
@@ -29,12 +29,12 @@
                                 </div>
 
                                 <div class="form-group mt-2">
-                                    <label>E-Mail</label>
+                                    <label>Email</label>
                                     <input type="text" name="Email" class="form-control">
                                 </div>
 
                                 <div class="form-group mt-2">
-                                    <label>Nama Lengkap</label>
+                                    <label>NamaLengkap</label>
                                     <input type="text" name="NamaLengkap" class="form-control">
                                 </div>
 
